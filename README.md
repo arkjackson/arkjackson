@@ -28,8 +28,8 @@
 
 ## Contact Me ✉️
 
-![naver](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[![Naver](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:jackson0511@naver.com)
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihy1968@gmail.com)
 
 ---
 
