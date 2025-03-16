@@ -34,7 +34,7 @@
 | Project Name                                      | Duration             | GitHub Link          |
 |--------------------------------------------------|----------------------|----------------------|
 | Text Tense Classifier                            | Dec 2024 - Jan 2025  | [Link!]               |
-| Personalized Investment Information Service Development | Oct 2024             | [Link!]               |
+| News Industry Classifier | Oct 2024             | [Link!](https://github.com/arkjackson/NewsIndustryClassifier)               |
 | U.S. ETF Curation Model for Interpretability and Profitability | Sep 2024 - Oct 2024  | [Link!](https://github.com/arkjackson/U.S.-ETF-Curation)               |
 | Creation of a Chatbot Specialized in the Economic Field | Jul 2023 - Aug 2023  | [Link!](https://github.com/arkjackson/Economic-Chatbot)              |
 | Shooting Game - Animal Guardian                  | Sep 2022 - Dec 2022  | [Link!](https://github.com/LongHonor/AnimalGuardian)               |
