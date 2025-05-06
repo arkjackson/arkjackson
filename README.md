@@ -33,6 +33,7 @@
 
 | Project Name                                      | Duration             | GitHub Link          |
 |--------------------------------------------------|----------------------|----------------------|
+| Natural Gas Price Prediction                    | May 2025  | [Link!](https://github.com/arkjackson/Natural-Gas-Price-Prediction)               |
 | Korean Article Tense Classifier                            | Dec 2024 - Jan 2025  | [Link!](https://github.com/arkjackson/Ko-Tense-Classifier)               |
 | News Industry Classifier | Oct 2024             | [Link!](https://github.com/arkjackson/NewsIndustryClassifier)               |
 | U.S. ETF Curation Model for Interpretability and Profitability | Sep 2024 - Oct 2024  | [Link!](https://github.com/arkjackson/U.S.-ETF-Curation)               |
