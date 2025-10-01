@@ -20,6 +20,10 @@
 
 2021.03 ~ 2025.08
 
+---
+
+## Work 🏢
+
 **Impact Pulse (Gaia Investment)**
 
 2025.08 ~ 
