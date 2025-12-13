@@ -3,14 +3,11 @@
 
 \- **Data Analysis**: ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-\- **AI**: ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 \- **API**: ![KIS](https://img.shields.io/badge/KIS%20Open%20API-0057D2?style=for-the-badge&logoColor=white) ![Kiwoom](https://img.shields.io/badge/Kiwoom%20OpenAPI+-FF4B4B?style=for-the-badge&logoColor=white)
 
 \- **Database**: ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 \- **Additional**: ![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![huggingface](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ---
 
@@ -26,7 +23,7 @@
 
 **Impact Pulse (Gaia Investment)**
 
-2025.07 ~ 
+2025.07 ~ 2025.12
 
 ---
 
