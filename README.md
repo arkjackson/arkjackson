@@ -38,14 +38,11 @@
 
 | Project Name                                      | Duration             | GitHub Link          |
 |--------------------------------------------------|----------------------|----------------------|
+|Tense-Aware Sentiment Stock Forecasting |  Dec. 2025 - Jan. 2026 | [Link!](https://github.com/arkjackson/tense-aware-sentiment-forecasting)  |
 | Statistical Analysis of Intraday Price Persistence                    | Oct. 2025 - Nov. 2025 | [Link!](https://github.com/arkjackson/intraday-momentum-stat)               |
-| Relationship Between Investor Net Buying and Stock Price Movements | Oct. 2025 | [Link!](https://github.com/arkjackson/Stock-Investor-Correlation)               |
 | Natural Gas Price Prediction                    | May. 2025  | [Link!](https://github.com/arkjackson/Natural-Gas-Price-Prediction)               |
-| Korean Article Tense Classifier                            | Dec. 2024 - Jan. 2025  | [Link!](https://github.com/arkjackson/Ko-Tense-Classifier)               |
-| News Industry Classifier | Oct 2024             | [Link!](https://github.com/arkjackson/NewsIndustryClassifier)               |
+| Korean Tense Classifier                            | Dec. 2024 - Jan. 2025  | [Link!](https://github.com/arkjackson/Ko-Tense-Classifier)               |
 | U.S. ETF Curation Model for Interpretability and Profitability | Sep. 2024 - Oct. 2024  | [Link!](https://github.com/arkjackson/U.S.-ETF-Curation)               |
-| Creation of a Chatbot Specialized in the Economic Field | Jul. 2023 - Aug. 2023  | [Link!](https://github.com/arkjackson/Economic-Chatbot)              |
-| Predicting the Number of Audiences Using Movie Review Data | Feb 2022. - Aug. 2022  | [Link!](https://github.com/arkjackson/MovieAudiencePrediction)               |
 
 <!--
 **arkjackson/arkjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
