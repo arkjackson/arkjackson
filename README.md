@@ -7,7 +7,7 @@
 
 \- **Database**: ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-\- **Additional**: ![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+\- **Tools**: ![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![PyQt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
