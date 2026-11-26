@@ -1,13 +1,31 @@
 ## Tech Stack 🛠️
-\- **Programming Skills**: ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+\- **Languages**
 
-\- **Data Analysis**: ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-\- **API**: ![KIS](https://img.shields.io/badge/KIS%20Open%20API-0057D2?style=for-the-badge&logoColor=white) ![Kiwoom](https://img.shields.io/badge/Kiwoom%20OpenAPI+-FF4B4B?style=for-the-badge&logoColor=white)
+\- **Data Analysis**
 
-\- **Database**: ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-\- **Tools**: ![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![PyQt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+\- **Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+
+\- **Deep Learning & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
+
+\- **Financial API**
+
+![KIS](https://img.shields.io/badge/KIS%20Open%20API-0057D2?style=for-the-badge&logoColor=white) ![Kiwoom](https://img.shields.io/badge/Kiwoom%20OpenAPI+-FF4B4B?style=for-the-badge&logoColor=white)
+
+\- **Database**
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+\- **Tools**
+
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ---
 
@@ -29,8 +47,8 @@
 
 ## Contact Me ✉️
 
-[![Naver](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:jackson0511@naver.com)
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihy1968@gmail.com)
+[![Naver](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:jackson0511@naver.com)
 
 ---
 
